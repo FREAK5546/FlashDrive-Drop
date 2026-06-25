@@ -1,5 +1,5 @@
 FlashDrop
-Wirelessly send and receive files to/from a USB flash drive using your phone — no internet,
+Wirelessly send and receive files to/from a USB flash drive using your phone, no internet,
 no app, no cables needed.
 How it works
 1. Plug in your flash drive
